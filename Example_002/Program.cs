@@ -1,6 +1,6 @@
 ﻿// Сумма двух чисел
 
-int numA = 3;
-int numB = 5;
-int result = numA + numB;
+int numberA = 3;
+int numberB = 5;
+int result = numberA + numberB;
 Console.WriteLine(result);
