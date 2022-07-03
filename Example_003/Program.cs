@@ -1,7 +1,7 @@
 ﻿// Частное двух чисел
 
-double numA = 17;
-double numB = 5;
-double result = numA / numB;
+double numberA = 17;
+double numberB = 5;
+double result = numberA / numberB;
 Console.WriteLine(result);
 
